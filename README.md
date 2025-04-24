@@ -15,9 +15,9 @@ Our learn-able pooling mechanism learns structural information from the hidden s
 
 **Key Contributions**
 
-* We introduce a novel learn-able Fisher Vector (FV) with activity-aware pooling mechanism. [cite: 35, 36, 37, 49, 50, 51] This mechanism learns structural information from the hidden states of a Long Short-Term Memory (LSTM) network, which improves temporal learning. [cite: 35, 36, 37, 49, 50, 51]
+* We introduce a novel learn-able Fisher Vector (FV) with activity-aware pooling mechanism.  This mechanism learns structural information from the hidden states of a Long Short-Term Memory (LSTM) network, which improves temporal learning. 
    
-* We propose a sequential self-attention-based end-to-end trainable human activity recognition model. [cite: 322, 323] This model integrates our learn-able LSTM FV pooling and achieves state-of-the-art results on two challenging datasets. [cite: 322, 323]
+* We propose a sequential self-attention-based end-to-end trainable human activity recognition model. This model integrates our learn-able LSTM FV pooling and achieves state-of-the-art results on two challenging datasets.
 
 **Important Notes**
 
